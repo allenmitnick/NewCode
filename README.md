@@ -1,2 +1,2 @@
-# leetcode
-leetcode刷题
+# NewCode
+牛客刷题
